@@ -37,7 +37,7 @@ mainSections = ["post"]
 twitter = "https://twitter.com"
 [privacy.instagram]
 disabled = false
-simple = true
+simple = false
 [privacy.twitter]
 disabled = false
 enableDNT = true
@@ -47,7 +47,7 @@ disabled = false
 simple = true
 [privacy.youtube]
 disabled = false
-privacyEnhanced = true
+privacyEnhanced = false
 [services.instagram]
 disableInlineCSS = true
 [services.twitter]
